@@ -10,7 +10,7 @@ Languages: JavaScript, HTML, CSS
 Frameworks: React, MUI
 
 # Features
--   Infinite scroll pagination (See: <a href="/Pagination.md")
+-   Infinite scroll pagination (See: <a href="/Pagination.md">Pagination Documentation</a>)
 -   Search for albums by name or artist
 -   View a modal with more information about each album by clicking on the album card
 -   Responsive design with Material UI components
