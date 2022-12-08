@@ -1,4 +1,4 @@
-### Top-Albums
+# Top-Albums
 
 ## <a href="https://brthomiu.github.io/top-albums/">Live Demo</a>
 
