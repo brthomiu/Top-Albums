@@ -1,6 +1,5 @@
 {
-  "name": "publicredeploy",
-  "private": true,
+  "name": "publicrepodeploy",
   "version": "1.0.0",
   "type": "module",
   "homepage": "https://brthomiu.github.io/top-albums",
